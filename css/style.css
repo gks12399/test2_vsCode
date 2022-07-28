@@ -1,0 +1,12 @@
+#div {
+    background-color: pink;
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    border-radius: 15px;
+}
+
+#div h1 {
+    text-align: center;
+    padding-top: 20px;
+}

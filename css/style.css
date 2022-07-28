@@ -1,5 +1,6 @@
 #div {
-    background-color: pink;
+    float: left;
+    background-color: mistyrose;
     width: 200px;
     height: 200px;
     margin: 100px;
@@ -7,6 +8,21 @@
 }
 
 #div h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+#upd {
+    float: right;
+    background-color:powderblue;
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    border-radius: 15px;
+}
+
+#upd h1 {
     text-align: center;
     padding-top: 20px;
 }
